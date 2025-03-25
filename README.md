@@ -37,7 +37,7 @@ STUDYING
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,py,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,html,css,py,cpp" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,dotnet,androidstudio,spring,aws" />
+    <img src="https://skillicons.dev/icons?i=windows,dotnet,androidstudio,spring,maven,aws" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,discord,notion" />
   </a>
 </p>
 
