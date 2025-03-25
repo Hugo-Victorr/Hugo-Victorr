@@ -18,12 +18,11 @@ LINK`S
 </div>
 
 <div align="center"> 
-<img height="80" src="https://www.spriters-resource.com/resources/sheet_icons/144/147683.gif"/>
+ <img height="80" src="https://www.spriters-resource.com/resources/sheet_icons/144/147683.gif"/>
 </div>
 
-<div align="center"> 
-<a href="https://www.instagram.com/apenas_belmont" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "pieroteigor@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+<a href = "oliveiralima.hugov@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/hugo-v-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
@@ -39,12 +38,11 @@ STUDYING
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,ts,py,cs,cpp,flutter" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,py,cs,cpp" />
   </a>
 </p>
 
 <br>
-
 <div align="center"> 
 TOOLS
 </div>
@@ -55,7 +53,15 @@ TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,androidstudio,bootstrap,firebase,unity,git,github,idea,mysql,nodejs,ps,spring,vscode,discord" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,spring" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,dotnet,androidstudio,spring,git,github,vscode,discord,notion" />
   </a>
 </p>
 
@@ -66,6 +72,4 @@ TOOLS
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
-
-
 
