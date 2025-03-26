@@ -28,7 +28,7 @@ LINK`S
 <br>
 
 <div align="center"> 
-STUDYING
+LANGUAGES
 </div>
 
 <!--<div align="center"> 
